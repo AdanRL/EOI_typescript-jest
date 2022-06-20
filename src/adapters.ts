@@ -7,3 +7,4 @@ export const countChars = (stringToFind: string, string: string): number => {
     })
     return count
 }
+
